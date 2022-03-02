@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-9
+			],
+			"anim": "Scream",
+			"fps": 24,
+			"name": "SCREAM note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				23
+			],
+			"anim": "Screamup",
+			"fps": 24,
+			"name": "SCREAM up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FliqpyBLOOD Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FliqpyBLOOD Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FliqpyBLOOD Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FliqpyBLOOD NOTE LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": "v"
+		},
+		{
+			"offsets": [
+				14,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FliqpyBLOOD Up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fliqpy-Crazy",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "fliqpy",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		186,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
