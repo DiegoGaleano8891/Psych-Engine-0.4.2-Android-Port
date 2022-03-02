@@ -1,0 +1,67 @@
+{
+	"storyName": "PTSD",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"fliqpy",
+		""
+	],
+	"songs": [
+		[
+			"Flippy Roll",
+			"fliqpy",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"HAppy Tree Land",
+			"fliqpy",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Massacre",
+			"bruv",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Flippin Out",
+			"bruv",
+			[
+				200,
+				35,
+				0
+			]
+		],
+		[
+			"Unflipped Out",
+			"flippy",
+			[
+				0,
+				215,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "OMGFLIPPT"
+}
